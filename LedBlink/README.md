@@ -1,5 +1,8 @@
 # STM32 Led Blink Example
 
+## Circuit
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Circuit.png" width="800">
+
 ## Debugger Connection
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Connection.png" width="800">
 
