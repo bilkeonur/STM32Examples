@@ -4,7 +4,7 @@
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Connection.png" width="800">
 
 ## Clock Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen1.png" width=800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen1.png" width="800">
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen4.png" width="800">
 
 ## Debug Configuration
