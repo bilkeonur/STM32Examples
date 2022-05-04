@@ -16,6 +16,22 @@
 ## GPIO Configuration
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen3.png" width="800">
 
+## Sample Code
+
+```C
+while (1)
+  {
+	  HAL_Delay(1000);
+	  HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);
+
+     //Or
+	  HAL_GPIO_WritePin(LED_GPIO_Port, LED_Pin, GPIO_PIN_SET);
+	  HAL_Delay(100);
+	  HAL_GPIO_WritePin(LED_GPIO_Port, LED_Pin, GPIO_PIN_RESET);
+	  HAL_Delay(100);
+  }
+```
+
 # About The Author
 
 ### Onur BiLKE
