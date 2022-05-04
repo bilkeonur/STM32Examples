@@ -1,7 +1,7 @@
 # STM32 Led Blink Example
 
 ## Debugger Connection
-![Connection](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Connection.png)
+![Connection](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Connection.png =250x)
 
 ## Clock Configuration
 ![Screen1](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen1.png)
