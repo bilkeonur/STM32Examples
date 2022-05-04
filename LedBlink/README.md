@@ -4,14 +4,14 @@
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Connection.png" width="600">
 
 ## Clock Configuration
-![Screen1](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen1.png)
-![Screen4](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen4.png)
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen1.png" width="600">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen4.png" width="600">
 
 ## Debug Configuration
-![Screen2](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen2.png)
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen2.png" width="600">
 
 ## GPIO Configuration
-![Screen3](https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen3.png)
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LedBlink/Images/Screen3.png" width="600">
 
 # About The Author
 
