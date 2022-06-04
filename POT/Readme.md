@@ -16,6 +16,21 @@
 ## GPIO Configuration
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Screen1.png" width="800">
 
+## Sample Code
+
+```C
+while (1)
+{
+	//uint32_t data = 0;
+   //char buffer[16] = "";
+   lcdClear();
+	data = HAL_ADC_GetValue(&hadc);
+	sprintf(buffer,"%d",data);
+	lcdPrint(1,1,buffer);
+	HAL_Delay(1000);
+}
+```
+
 # About The Author
 
 ### Onur BiLKE
