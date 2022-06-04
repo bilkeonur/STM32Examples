@@ -4,7 +4,7 @@
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/Button/Images/Circuit.jpg" width="800">
 
 ## Schematic
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Button/Images/Schematic.jpg" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Button/Images/Schematic.png" width="800">
 
 ## Clock Configuration
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/Button/Images/Screen2.png" width="800">
