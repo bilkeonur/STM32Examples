@@ -1,23 +1,20 @@
-# STM32 16x02 LCD Example
+# STM32 POT Example
 
 ## Circuit
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Circuit.jpg" width="800">
-
-## Debugger Connection
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Connection.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Circuit.jpg" width="800">
 
 ## Schematic
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Schematic.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Schematic.png" width="800">
 
 ## Clock Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Screen1.png" width="800">
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Screen4.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Scree2.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Screen3.png" width="800">
 
 ## Debug Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Screen2.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Screen4.png" width="800">
 
 ## GPIO Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/LCD/Images/Screen3.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Screen1.png" width="800">
 
 # About The Author
 
