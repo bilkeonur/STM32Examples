@@ -7,7 +7,7 @@
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Schematic.png" width="800">
 
 ## Clock Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Scree2.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Screen2.png" width="800">
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/POT/Images/Screen3.png" width="800">
 
 ## Debug Configuration
