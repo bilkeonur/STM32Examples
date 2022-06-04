@@ -21,13 +21,13 @@
 ```C
 while (1)
 {
-	//uint32_t data = 0;
+   //uint32_t data = 0;
    //char buffer[16] = "";
    lcdClear();
-	data = HAL_ADC_GetValue(&hadc);
-	sprintf(buffer,"%d",data);
-	lcdPrint(1,1,buffer);
-	HAL_Delay(1000);
+   data = HAL_ADC_GetValue(&hadc);
+   sprintf(buffer,"%d",data);
+   lcdPrint(1,1,buffer);
+   HAL_Delay(1000);
 }
 ```
 
