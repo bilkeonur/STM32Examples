@@ -1,17 +1,17 @@
 # STM32 Timer Example
 
 ## Debug Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/Images/Screen1.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen1.png" width="800">
 
 ## GPIO Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/Images/Screen2.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen3.png" width="800">
 
 ## Clock Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/Images/Screen3.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen3.png" width="800">
 
 ## Timer Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/Images/Screen4.png" width="800">
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/Images/Screen5.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen4.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen5.png" width="800">
 
 ## Sample Code
 
