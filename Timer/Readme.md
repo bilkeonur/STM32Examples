@@ -16,7 +16,7 @@
 ## Sample Code
 
 ```C
-//Add uint32_t cnt=0;
+//Add Following Code
 /* USER CODE BEGIN PV */
 uint32_t cnt=0;
 /* USER CODE END PV */
