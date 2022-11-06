@@ -4,7 +4,7 @@
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen1.png" width="800">
 
 ## GPIO Configuration
-<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen3.png" width="800">
+<img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen2.png" width="800">
 
 ## Clock Configuration
 <img src="https://github.com/bilkeonur/STM32Examples/blob/main/Timer/images/Screen3.png" width="800">
