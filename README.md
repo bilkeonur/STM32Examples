@@ -9,3 +9,4 @@ STM32 Example Projects
 ## 6-POT
 ## 7-RC522
 ## 8-TIMER
+## 9-EEPROM
